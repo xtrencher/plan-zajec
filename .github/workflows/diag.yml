@@ -1,0 +1,11 @@
+name: diag
+on: [workflow_dispatch, push]
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          getent ahosts a2c.uek.krakow.pl || true
+          getent ahosts planzajec.uek.krakow.pl || true
+          curl -s https://ipinfo.io/json || true
+          for u in https://a2c.uek.krakow.pl/ https://planzajec.uek.krakow.pl/ https://uek.krakow.pl/ http://a2c.uek.krakow.pl/; do echo "== $u"; curl -4 -sS -m 20 -o /dev/null -w "%{http_code} %{remote_ip} %{time_connect}\n" "$u" || true; done
