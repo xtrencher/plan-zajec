@@ -1,6 +1,6 @@
 {
  "group": "ZZIBS1-2311",
- "savedAt": "2026-11-03T12:05:47.075Z",
+ "savedAt": "2026-11-03T12:26:31.236Z",
  "lastChangeAt": null,
  "changes": [],
  "events": [
@@ -540,7 +540,7 @@
    "subject": "Biznes plan",
    "kind": "przen",
    "no": "1/2",
-   "room": "brak sali lub zajęcia zdalne",
+   "room": "",
    "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
    "note": "na 26.11."
   },
@@ -560,7 +560,7 @@
    "subject": "Biznes plan",
    "kind": "przen",
    "no": "2/2",
-   "room": "brak sali lub zajęcia zdalne",
+   "room": "",
    "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
    "note": "na 26.11."
   },
@@ -772,16 +772,6 @@
    "no": "8/15",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
-   "note": ""
-  },
-  {
-   "start": "2026-11-18T18:30",
-   "end": "2026-11-18T20:00",
-   "subject": "Rezerwacja",
-   "kind": "wyk",
-   "no": "1/1",
-   "room": "",
-   "teacher": "Parlament Studencki Uek",
    "note": ""
   },
   {
@@ -1644,6 +1634,5 @@
    "teacher": "dr Paweł Łukasik",
    "note": ""
   }
- ],
- "reset": true
+ ]
 }
