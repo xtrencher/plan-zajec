@@ -1,0 +1,1648 @@
+{
+ "group": "ZZIBS1-2311",
+ "savedAt": "2026-11-03T12:05:47.075Z",
+ "lastChangeAt": null,
+ "changes": [],
+ "events": [
+  {
+   "start": "2026-10-01T09:45",
+   "end": "2026-10-01T11:15",
+   "subject": "Język obcy I · angielski",
+   "kind": "lek",
+   "no": "1/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-10-02T08:00",
+   "end": "2026-10-02T09:30",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "wyk",
+   "no": "1/8",
+   "room": "Paw.B 351",
+   "teacher": "dr Paweł Łukasik",
+   "note": ""
+  },
+  {
+   "start": "2026-10-02T11:30",
+   "end": "2026-10-02T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "ćw",
+   "no": "1/15",
+   "room": "Paw.F 715",
+   "teacher": "mgr Riccardo Valente",
+   "note": ""
+  },
+  {
+   "start": "2026-10-05T09:45",
+   "end": "2026-10-05T11:15",
+   "subject": "Język obcy I · niemiecki",
+   "kind": "lek",
+   "no": "3/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-10-05T11:30",
+   "end": "2026-10-05T13:00",
+   "subject": "Proseminarium: Prowadzenie, dokumentacja i prezentacja wyników badań",
+   "kind": "kon",
+   "no": "1/8",
+   "room": "Paw.U sala T (Kat. ZKL)",
+   "teacher": "dr Renata Winkler",
+   "note": ""
+  },
+  {
+   "start": "2026-10-05T13:15",
+   "end": "2026-10-05T14:45",
+   "subject": "Metody twórczego myślenia",
+   "kind": "wyk",
+   "no": "1/8",
+   "room": "Paw.S sala 7",
+   "teacher": "prof. UEK dr hab. Tomasz Kafel",
+   "note": ""
+  },
+  {
+   "start": "2026-10-05T15:00",
+   "end": "2026-10-05T16:30",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "1/15",
+   "room": "Bibl.425",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": ""
+  },
+  {
+   "start": "2026-10-07T11:30",
+   "end": "2026-10-07T13:00",
+   "subject": "Zarządzanie prawami własności intelektualnej",
+   "kind": "wyk",
+   "no": "1/15",
+   "room": "Paw.F 613",
+   "teacher": "dr Mateusz Tondera",
+   "note": ""
+  },
+  {
+   "start": "2026-10-07T15:00",
+   "end": "2026-10-07T16:30",
+   "subject": "Metody twórczego myślenia",
+   "kind": "ćw",
+   "no": "1/15",
+   "room": "Bibl.425",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": ""
+  },
+  {
+   "start": "2026-10-08T09:45",
+   "end": "2026-10-08T11:15",
+   "subject": "Język obcy I · angielski",
+   "kind": "lek",
+   "no": "6/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-10-09T11:30",
+   "end": "2026-10-09T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "ćw",
+   "no": "2/15",
+   "room": "Paw.F 715",
+   "teacher": "mgr Riccardo Valente",
+   "note": ""
+  },
+  {
+   "start": "2026-10-09T13:15",
+   "end": "2026-10-09T14:45",
+   "subject": "Metody twórczego myślenia",
+   "kind": "ćw",
+   "no": "2/15",
+   "room": "Paw.B 351",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": ""
+  },
+  {
+   "start": "2026-10-12T09:45",
+   "end": "2026-10-12T11:15",
+   "subject": "Język obcy I · niemiecki",
+   "kind": "lek",
+   "no": "8/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-10-12T13:15",
+   "end": "2026-10-12T14:45",
+   "subject": "Biznes plan",
+   "kind": "wyk",
+   "no": "1/8",
+   "room": "Paw.S sala 7",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2026-10-12T15:00",
+   "end": "2026-10-12T16:30",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "2/15",
+   "room": "Bibl.425",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": ""
+  },
+  {
+   "start": "2026-10-12T16:45",
+   "end": "2026-10-12T18:15",
+   "subject": "Biznes plan",
+   "kind": "ćw",
+   "no": "1/8",
+   "room": "Paw.F 614",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2026-10-13T13:15",
+   "end": "2026-10-13T14:45",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "wyk",
+   "no": "1/8",
+   "room": "Paw.F 104",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-10-13T15:00",
+   "end": "2026-10-13T16:30",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "ćw",
+   "no": "1/15",
+   "room": "Paw.F 109",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-10-14T11:30",
+   "end": "2026-10-14T13:00",
+   "subject": "Zarządzanie prawami własności intelektualnej",
+   "kind": "wyk",
+   "no": "2/15",
+   "room": "Paw.F 613",
+   "teacher": "dr Mateusz Tondera",
+   "note": ""
+  },
+  {
+   "start": "2026-10-14T13:15",
+   "end": "2026-10-14T14:45",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "ćw",
+   "no": "2/15",
+   "room": "Paw.E sala J",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-10-14T15:00",
+   "end": "2026-10-14T16:30",
+   "subject": "Metody twórczego myślenia",
+   "kind": "ćw",
+   "no": "3/15",
+   "room": "Bibl.425",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": ""
+  },
+  {
+   "start": "2026-10-15T09:45",
+   "end": "2026-10-15T11:15",
+   "subject": "Język obcy I · angielski",
+   "kind": "lek",
+   "no": "12/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-10-16T08:00",
+   "end": "2026-10-16T09:30",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "wyk",
+   "no": "2/8",
+   "room": "Paw.B 351",
+   "teacher": "dr Paweł Łukasik",
+   "note": ""
+  },
+  {
+   "start": "2026-10-16T11:30",
+   "end": "2026-10-16T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "ćw",
+   "no": "3/15",
+   "room": "Paw.F 715",
+   "teacher": "mgr Riccardo Valente",
+   "note": ""
+  },
+  {
+   "start": "2026-10-19T09:45",
+   "end": "2026-10-19T11:15",
+   "subject": "Język obcy I · niemiecki",
+   "kind": "lek",
+   "no": "14/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-10-19T11:30",
+   "end": "2026-10-19T13:00",
+   "subject": "Proseminarium: Prowadzenie, dokumentacja i prezentacja wyników badań",
+   "kind": "kon",
+   "no": "2/8",
+   "room": "Paw.U sala T (Kat. ZKL)",
+   "teacher": "dr Renata Winkler",
+   "note": ""
+  },
+  {
+   "start": "2026-10-19T13:15",
+   "end": "2026-10-19T14:45",
+   "subject": "Metody twórczego myślenia",
+   "kind": "wyk",
+   "no": "2/8",
+   "room": "Paw.S sala 7",
+   "teacher": "prof. UEK dr hab. Tomasz Kafel",
+   "note": ""
+  },
+  {
+   "start": "2026-10-19T15:00",
+   "end": "2026-10-19T16:30",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "3/15",
+   "room": "Bibl.425",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": ""
+  },
+  {
+   "start": "2026-10-20T11:30",
+   "end": "2026-10-20T13:00",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "wyk",
+   "no": "1/8",
+   "room": "Paw.B 251",
+   "teacher": "prof. UEK dr hab. Paweł Cabała",
+   "note": ""
+  },
+  {
+   "start": "2026-10-20T13:15",
+   "end": "2026-10-20T14:45",
+   "subject": "Biznes plan",
+   "kind": "wyk",
+   "no": "2/8",
+   "room": "Paw.S sala 6",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2026-10-20T15:00",
+   "end": "2026-10-20T16:30",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "ćw",
+   "no": "3/15",
+   "room": "Paw.F 109",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-10-20T16:45",
+   "end": "2026-10-20T18:15",
+   "subject": "Biznes plan",
+   "kind": "ćw",
+   "no": "2/8",
+   "room": "Paw.B 151",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2026-10-21T11:30",
+   "end": "2026-10-21T13:00",
+   "subject": "Zarządzanie prawami własności intelektualnej",
+   "kind": "wyk",
+   "no": "3/15",
+   "room": "Paw.F 613",
+   "teacher": "dr Mateusz Tondera",
+   "note": ""
+  },
+  {
+   "start": "2026-10-21T15:00",
+   "end": "2026-10-21T16:30",
+   "subject": "Metody twórczego myślenia",
+   "kind": "ćw",
+   "no": "4/15",
+   "room": "Bibl.425",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": ""
+  },
+  {
+   "start": "2026-10-22T09:45",
+   "end": "2026-10-22T11:15",
+   "subject": "Język obcy I · angielski",
+   "kind": "lek",
+   "no": "18/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-10-23T11:30",
+   "end": "2026-10-23T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "ćw",
+   "no": "4/15",
+   "room": "Paw.F 715",
+   "teacher": "mgr Riccardo Valente",
+   "note": ""
+  },
+  {
+   "start": "2026-10-26T09:45",
+   "end": "2026-10-26T11:15",
+   "subject": "Język obcy I · niemiecki",
+   "kind": "lek",
+   "no": "20/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-10-26T13:15",
+   "end": "2026-10-26T14:45",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "wyk",
+   "no": "2/8",
+   "room": "Paw.S sala 7",
+   "teacher": "prof. UEK dr hab. Paweł Cabała",
+   "note": ""
+  },
+  {
+   "start": "2026-10-26T15:00",
+   "end": "2026-10-26T16:30",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "4/15",
+   "room": "Bibl.425",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": ""
+  },
+  {
+   "start": "2026-10-27T13:15",
+   "end": "2026-10-27T14:45",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "wyk",
+   "no": "2/8",
+   "room": "Paw.F 104",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-10-27T15:00",
+   "end": "2026-10-27T16:30",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "ćw",
+   "no": "4/15",
+   "room": "Paw.F 109",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-10-28T11:30",
+   "end": "2026-10-28T13:00",
+   "subject": "Zarządzanie prawami własności intelektualnej",
+   "kind": "wyk",
+   "no": "4/15",
+   "room": "Paw.F 613",
+   "teacher": "dr Mateusz Tondera",
+   "note": ""
+  },
+  {
+   "start": "2026-10-28T15:00",
+   "end": "2026-10-28T16:30",
+   "subject": "Metody twórczego myślenia",
+   "kind": "ćw",
+   "no": "5/15",
+   "room": "Bibl.425",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": ""
+  },
+  {
+   "start": "2026-10-29T09:45",
+   "end": "2026-10-29T11:15",
+   "subject": "Język obcy I · angielski",
+   "kind": "lek",
+   "no": "24/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-10-29T11:30",
+   "end": "2026-10-29T13:00",
+   "subject": "Zarządzanie prawami własności intelektualnej",
+   "kind": "wyk",
+   "no": "5/15",
+   "room": "Paw.C sala B",
+   "teacher": "dr Mateusz Tondera",
+   "note": ""
+  },
+  {
+   "start": "2026-10-30T08:00",
+   "end": "2026-10-30T09:30",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "wyk",
+   "no": "3/8",
+   "room": "Paw.B 351",
+   "teacher": "dr Paweł Łukasik",
+   "note": ""
+  },
+  {
+   "start": "2026-10-30T11:30",
+   "end": "2026-10-30T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "ćw",
+   "no": "5/15",
+   "room": "Paw.F 715",
+   "teacher": "mgr Riccardo Valente",
+   "note": ""
+  },
+  {
+   "start": "2026-10-30T13:15",
+   "end": "2026-10-30T14:45",
+   "subject": "Metody twórczego myślenia",
+   "kind": "ćw",
+   "no": "6/15",
+   "room": "Bibl.425",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": ""
+  },
+  {
+   "start": "2026-11-02T09:45",
+   "end": "2026-11-02T11:15",
+   "subject": "Język obcy I · niemiecki",
+   "kind": "lek",
+   "no": "26/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-11-02T11:30",
+   "end": "2026-11-02T13:00",
+   "subject": "Proseminarium: Prowadzenie, dokumentacja i prezentacja wyników badań",
+   "kind": "kon",
+   "no": "3/8",
+   "room": "Paw.U sala T (Kat. ZKL)",
+   "teacher": "dr Renata Winkler",
+   "note": ""
+  },
+  {
+   "start": "2026-11-02T13:15",
+   "end": "2026-11-02T14:45",
+   "subject": "Metody twórczego myślenia",
+   "kind": "wyk",
+   "no": "3/8",
+   "room": "Paw.S sala 7",
+   "teacher": "prof. UEK dr hab. Tomasz Kafel",
+   "note": ""
+  },
+  {
+   "start": "2026-11-02T15:00",
+   "end": "2026-11-02T16:30",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "5/15",
+   "room": "Bibl.425",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": ""
+  },
+  {
+   "start": "2026-11-03T11:30",
+   "end": "2026-11-03T13:00",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "wyk",
+   "no": "3/8",
+   "room": "Paw.B 251",
+   "teacher": "prof. UEK dr hab. Paweł Cabała",
+   "note": ""
+  },
+  {
+   "start": "2026-11-03T13:15",
+   "end": "2026-11-03T14:45",
+   "subject": "Biznes plan",
+   "kind": "przen",
+   "no": "1/2",
+   "room": "brak sali lub zajęcia zdalne",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": "na 26.11."
+  },
+  {
+   "start": "2026-11-03T15:00",
+   "end": "2026-11-03T16:30",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "ćw",
+   "no": "5/15",
+   "room": "Paw.F 109",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-11-03T16:45",
+   "end": "2026-11-03T18:15",
+   "subject": "Biznes plan",
+   "kind": "przen",
+   "no": "2/2",
+   "room": "brak sali lub zajęcia zdalne",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": "na 26.11."
+  },
+  {
+   "start": "2026-11-04T11:30",
+   "end": "2026-11-04T13:00",
+   "subject": "Zarządzanie prawami własności intelektualnej",
+   "kind": "wyk",
+   "no": "6/15",
+   "room": "Paw.F 613",
+   "teacher": "dr Mateusz Tondera",
+   "note": ""
+  },
+  {
+   "start": "2026-11-04T15:00",
+   "end": "2026-11-04T16:30",
+   "subject": "Metody twórczego myślenia",
+   "kind": "ćw",
+   "no": "7/15",
+   "room": "Bibl.425",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": ""
+  },
+  {
+   "start": "2026-11-05T09:45",
+   "end": "2026-11-05T11:15",
+   "subject": "Język obcy I · angielski",
+   "kind": "lek",
+   "no": "30/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-11-06T11:30",
+   "end": "2026-11-06T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "ćw",
+   "no": "6/15",
+   "room": "Paw.F 715",
+   "teacher": "mgr Riccardo Valente",
+   "note": ""
+  },
+  {
+   "start": "2026-11-09T09:45",
+   "end": "2026-11-09T11:15",
+   "subject": "Język obcy I · niemiecki",
+   "kind": "lek",
+   "no": "32/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-11-09T15:00",
+   "end": "2026-11-09T16:30",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "6/15",
+   "room": "Bibl.425",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": ""
+  },
+  {
+   "start": "2026-11-10T13:15",
+   "end": "2026-11-10T14:45",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "wyk",
+   "no": "3/8",
+   "room": "Paw.F 104",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-11-10T15:00",
+   "end": "2026-11-10T16:30",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "ćw",
+   "no": "6/15",
+   "room": "Paw.F 109",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-11-12T09:45",
+   "end": "2026-11-12T11:15",
+   "subject": "Język obcy I · angielski",
+   "kind": "lek",
+   "no": "35/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-11-13T08:00",
+   "end": "2026-11-13T09:30",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "wyk",
+   "no": "4/8",
+   "room": "Paw.B 351",
+   "teacher": "dr Paweł Łukasik",
+   "note": ""
+  },
+  {
+   "start": "2026-11-13T11:30",
+   "end": "2026-11-13T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "ćw",
+   "no": "7/15",
+   "room": "Paw.F 715",
+   "teacher": "mgr Riccardo Valente",
+   "note": ""
+  },
+  {
+   "start": "2026-11-16T09:45",
+   "end": "2026-11-16T11:15",
+   "subject": "Język obcy I · niemiecki",
+   "kind": "lek",
+   "no": "37/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-11-16T11:30",
+   "end": "2026-11-16T13:00",
+   "subject": "Proseminarium: Prowadzenie, dokumentacja i prezentacja wyników badań",
+   "kind": "kon",
+   "no": "4/8",
+   "room": "Paw.U sala T (Kat. ZKL)",
+   "teacher": "dr Renata Winkler",
+   "note": ""
+  },
+  {
+   "start": "2026-11-16T13:15",
+   "end": "2026-11-16T14:45",
+   "subject": "Metody twórczego myślenia",
+   "kind": "wyk",
+   "no": "4/8",
+   "room": "Paw.S sala 7",
+   "teacher": "prof. UEK dr hab. Tomasz Kafel",
+   "note": ""
+  },
+  {
+   "start": "2026-11-16T15:00",
+   "end": "2026-11-16T16:30",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "7/15",
+   "room": "Bibl.425",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": ""
+  },
+  {
+   "start": "2026-11-17T11:30",
+   "end": "2026-11-17T13:00",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "wyk",
+   "no": "4/8",
+   "room": "Paw.B 251",
+   "teacher": "prof. UEK dr hab. Paweł Cabała",
+   "note": ""
+  },
+  {
+   "start": "2026-11-17T13:15",
+   "end": "2026-11-17T14:45",
+   "subject": "Biznes plan",
+   "kind": "wyk",
+   "no": "3/8",
+   "room": "Paw.S sala 6",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2026-11-17T15:00",
+   "end": "2026-11-17T16:30",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "ćw",
+   "no": "7/15",
+   "room": "Paw.F 109",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-11-17T16:45",
+   "end": "2026-11-17T18:15",
+   "subject": "Biznes plan",
+   "kind": "ćw",
+   "no": "3/8",
+   "room": "Paw.B 151",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2026-11-18T11:30",
+   "end": "2026-11-18T13:00",
+   "subject": "Zarządzanie prawami własności intelektualnej",
+   "kind": "wyk",
+   "no": "7/15",
+   "room": "Paw.F 613",
+   "teacher": "dr Mateusz Tondera",
+   "note": ""
+  },
+  {
+   "start": "2026-11-18T15:00",
+   "end": "2026-11-18T16:30",
+   "subject": "Metody twórczego myślenia",
+   "kind": "ćw",
+   "no": "8/15",
+   "room": "Bibl.425",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": ""
+  },
+  {
+   "start": "2026-11-18T18:30",
+   "end": "2026-11-18T20:00",
+   "subject": "Rezerwacja",
+   "kind": "wyk",
+   "no": "1/1",
+   "room": "",
+   "teacher": "Parlament Studencki Uek",
+   "note": ""
+  },
+  {
+   "start": "2026-11-19T09:45",
+   "end": "2026-11-19T11:15",
+   "subject": "Język obcy I · angielski",
+   "kind": "lek",
+   "no": "41/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-11-19T11:30",
+   "end": "2026-11-19T13:00",
+   "subject": "Zarządzanie prawami własności intelektualnej",
+   "kind": "wyk",
+   "no": "8/15",
+   "room": "Paw.C Nowa Aula",
+   "teacher": "dr Mateusz Tondera",
+   "note": ""
+  },
+  {
+   "start": "2026-11-20T11:30",
+   "end": "2026-11-20T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "ćw",
+   "no": "8/15",
+   "room": "Paw.F 715",
+   "teacher": "mgr Riccardo Valente",
+   "note": ""
+  },
+  {
+   "start": "2026-11-20T13:15",
+   "end": "2026-11-20T14:45",
+   "subject": "Metody twórczego myślenia",
+   "kind": "ćw",
+   "no": "9/15",
+   "room": "Bibl.425",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": ""
+  },
+  {
+   "start": "2026-11-23T09:45",
+   "end": "2026-11-23T11:15",
+   "subject": "Język obcy I · niemiecki",
+   "kind": "lek",
+   "no": "43/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-11-23T15:00",
+   "end": "2026-11-23T16:30",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "8/15",
+   "room": "Bibl.425",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": ""
+  },
+  {
+   "start": "2026-11-24T13:15",
+   "end": "2026-11-24T14:45",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "wyk",
+   "no": "4/8",
+   "room": "Paw.F 104",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-11-24T15:00",
+   "end": "2026-11-24T16:30",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "ćw",
+   "no": "8/15",
+   "room": "Paw.F 109",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-11-24T16:45",
+   "end": "2026-11-24T18:15",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "9/15",
+   "room": "Paw.F 104",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": ""
+  },
+  {
+   "start": "2026-11-25T11:30",
+   "end": "2026-11-25T13:00",
+   "subject": "Zarządzanie prawami własności intelektualnej",
+   "kind": "wyk",
+   "no": "9/15",
+   "room": "Paw.F 613",
+   "teacher": "dr Mateusz Tondera",
+   "note": ""
+  },
+  {
+   "start": "2026-11-25T15:00",
+   "end": "2026-11-25T16:30",
+   "subject": "Metody twórczego myślenia",
+   "kind": "ćw",
+   "no": "10/15",
+   "room": "Bibl.425",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": ""
+  },
+  {
+   "start": "2026-11-26T09:45",
+   "end": "2026-11-26T11:15",
+   "subject": "Język obcy I · angielski",
+   "kind": "lek",
+   "no": "47/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-11-26T11:30",
+   "end": "2026-11-26T13:00",
+   "subject": "Biznes plan",
+   "kind": "ćw",
+   "no": "4/8",
+   "room": "Paw.F CJ 303",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2026-11-26T15:00",
+   "end": "2026-11-26T16:30",
+   "subject": "Biznes plan",
+   "kind": "wyk",
+   "no": "4/8",
+   "room": "Paw.C sala F",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2026-11-27T08:00",
+   "end": "2026-11-27T09:30",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "wyk",
+   "no": "5/8",
+   "room": "Paw.B 351",
+   "teacher": "dr Paweł Łukasik",
+   "note": ""
+  },
+  {
+   "start": "2026-11-27T11:30",
+   "end": "2026-11-27T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "ćw",
+   "no": "9/15",
+   "room": "Paw.F 715",
+   "teacher": "mgr Riccardo Valente",
+   "note": ""
+  },
+  {
+   "start": "2026-11-30T09:45",
+   "end": "2026-11-30T11:15",
+   "subject": "Język obcy I · niemiecki",
+   "kind": "lek",
+   "no": "49/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-11-30T11:30",
+   "end": "2026-11-30T13:00",
+   "subject": "Proseminarium: Prowadzenie, dokumentacja i prezentacja wyników badań",
+   "kind": "kon",
+   "no": "5/8",
+   "room": "Paw.U sala T (Kat. ZKL)",
+   "teacher": "dr Renata Winkler",
+   "note": ""
+  },
+  {
+   "start": "2026-11-30T13:15",
+   "end": "2026-11-30T14:45",
+   "subject": "Metody twórczego myślenia",
+   "kind": "wyk",
+   "no": "5/8",
+   "room": "Paw.S sala 7",
+   "teacher": "prof. UEK dr hab. Tomasz Kafel",
+   "note": ""
+  },
+  {
+   "start": "2026-11-30T15:00",
+   "end": "2026-11-30T16:30",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "10/15",
+   "room": "Bibl.425",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": ""
+  },
+  {
+   "start": "2026-12-01T11:30",
+   "end": "2026-12-01T13:00",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "wyk",
+   "no": "5/8",
+   "room": "Paw.B 251",
+   "teacher": "prof. UEK dr hab. Paweł Cabała",
+   "note": ""
+  },
+  {
+   "start": "2026-12-01T13:15",
+   "end": "2026-12-01T14:45",
+   "subject": "Biznes plan",
+   "kind": "wyk",
+   "no": "5/8",
+   "room": "Paw.S sala 6",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2026-12-01T15:00",
+   "end": "2026-12-01T16:30",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "ćw",
+   "no": "9/15",
+   "room": "Paw.F 109",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-12-01T16:45",
+   "end": "2026-12-01T18:15",
+   "subject": "Biznes plan",
+   "kind": "ćw",
+   "no": "5/8",
+   "room": "Paw.B 151",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2026-12-02T11:30",
+   "end": "2026-12-02T13:00",
+   "subject": "Zarządzanie prawami własności intelektualnej",
+   "kind": "wyk",
+   "no": "10/15",
+   "room": "Paw.F 613",
+   "teacher": "dr Mateusz Tondera",
+   "note": ""
+  },
+  {
+   "start": "2026-12-02T15:00",
+   "end": "2026-12-02T16:30",
+   "subject": "Metody twórczego myślenia",
+   "kind": "ćw",
+   "no": "11/15",
+   "room": "Bibl.425",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": ""
+  },
+  {
+   "start": "2026-12-03T09:45",
+   "end": "2026-12-03T11:15",
+   "subject": "Język obcy I · angielski",
+   "kind": "lek",
+   "no": "53/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-12-04T11:30",
+   "end": "2026-12-04T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "ćw",
+   "no": "10/15",
+   "room": "Paw.F 715",
+   "teacher": "mgr Riccardo Valente",
+   "note": ""
+  },
+  {
+   "start": "2026-12-07T09:45",
+   "end": "2026-12-07T11:15",
+   "subject": "Język obcy I · niemiecki",
+   "kind": "lek",
+   "no": "55/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-12-07T15:00",
+   "end": "2026-12-07T16:30",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "11/15",
+   "room": "Bibl.425",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": ""
+  },
+  {
+   "start": "2026-12-08T13:15",
+   "end": "2026-12-08T14:45",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "wyk",
+   "no": "5/8",
+   "room": "Paw.F 104",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-12-08T15:00",
+   "end": "2026-12-08T16:30",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "ćw",
+   "no": "10/15",
+   "room": "Paw.F 109",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-12-09T11:30",
+   "end": "2026-12-09T13:00",
+   "subject": "Zarządzanie prawami własności intelektualnej",
+   "kind": "wyk",
+   "no": "11/15",
+   "room": "Paw.F 613",
+   "teacher": "dr Mateusz Tondera",
+   "note": ""
+  },
+  {
+   "start": "2026-12-09T15:00",
+   "end": "2026-12-09T16:30",
+   "subject": "Metody twórczego myślenia",
+   "kind": "ćw",
+   "no": "12/15",
+   "room": "Bibl.425",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": ""
+  },
+  {
+   "start": "2026-12-10T09:45",
+   "end": "2026-12-10T11:15",
+   "subject": "Język obcy I · angielski",
+   "kind": "lek",
+   "no": "59/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-12-11T08:00",
+   "end": "2026-12-11T09:30",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "wyk",
+   "no": "6/8",
+   "room": "Paw.B 351",
+   "teacher": "dr Paweł Łukasik",
+   "note": ""
+  },
+  {
+   "start": "2026-12-11T11:30",
+   "end": "2026-12-11T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "ćw",
+   "no": "11/15",
+   "room": "Paw.F 715",
+   "teacher": "mgr Riccardo Valente",
+   "note": ""
+  },
+  {
+   "start": "2026-12-14T09:45",
+   "end": "2026-12-14T11:15",
+   "subject": "Język obcy I · niemiecki",
+   "kind": "lek",
+   "no": "61/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-12-14T11:30",
+   "end": "2026-12-14T13:00",
+   "subject": "Proseminarium: Prowadzenie, dokumentacja i prezentacja wyników badań",
+   "kind": "kon",
+   "no": "6/8",
+   "room": "Paw.U sala T (Kat. ZKL)",
+   "teacher": "dr Renata Winkler",
+   "note": ""
+  },
+  {
+   "start": "2026-12-14T13:15",
+   "end": "2026-12-14T14:45",
+   "subject": "Metody twórczego myślenia",
+   "kind": "wyk",
+   "no": "6/8",
+   "room": "Paw.S sala 7",
+   "teacher": "prof. UEK dr hab. Tomasz Kafel",
+   "note": ""
+  },
+  {
+   "start": "2026-12-14T15:00",
+   "end": "2026-12-14T16:30",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "12/15",
+   "room": "Bibl.425",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": ""
+  },
+  {
+   "start": "2026-12-15T11:30",
+   "end": "2026-12-15T13:00",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "wyk",
+   "no": "6/8",
+   "room": "Paw.B 251",
+   "teacher": "prof. UEK dr hab. Paweł Cabała",
+   "note": ""
+  },
+  {
+   "start": "2026-12-15T13:15",
+   "end": "2026-12-15T14:45",
+   "subject": "Biznes plan",
+   "kind": "wyk",
+   "no": "6/8",
+   "room": "Paw.S sala 6",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2026-12-15T15:00",
+   "end": "2026-12-15T16:30",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "ćw",
+   "no": "11/15",
+   "room": "Paw.F 109",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-12-15T16:45",
+   "end": "2026-12-15T18:15",
+   "subject": "Biznes plan",
+   "kind": "ćw",
+   "no": "6/8",
+   "room": "Paw.B 151",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2026-12-16T11:30",
+   "end": "2026-12-16T13:00",
+   "subject": "Zarządzanie prawami własności intelektualnej",
+   "kind": "wyk",
+   "no": "12/15",
+   "room": "Paw.F 613",
+   "teacher": "dr Mateusz Tondera",
+   "note": ""
+  },
+  {
+   "start": "2026-12-16T15:00",
+   "end": "2026-12-16T16:30",
+   "subject": "Metody twórczego myślenia",
+   "kind": "ćw",
+   "no": "13/15",
+   "room": "Bibl.425",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": ""
+  },
+  {
+   "start": "2026-12-17T09:45",
+   "end": "2026-12-17T11:15",
+   "subject": "Język obcy I · angielski",
+   "kind": "lek",
+   "no": "65/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-12-17T11:30",
+   "end": "2026-12-17T13:00",
+   "subject": "Zarządzanie prawami własności intelektualnej",
+   "kind": "wyk",
+   "no": "13/15",
+   "room": "Paw.C Nowa Aula",
+   "teacher": "dr Mateusz Tondera",
+   "note": ""
+  },
+  {
+   "start": "2026-12-18T11:30",
+   "end": "2026-12-18T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "ćw",
+   "no": "12/15",
+   "room": "Paw.F 715",
+   "teacher": "mgr Riccardo Valente",
+   "note": ""
+  },
+  {
+   "start": "2026-12-21T09:45",
+   "end": "2026-12-21T11:15",
+   "subject": "Język obcy I · niemiecki",
+   "kind": "lek",
+   "no": "67/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2026-12-21T15:00",
+   "end": "2026-12-21T16:30",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "13/15",
+   "room": "Bibl.425",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": ""
+  },
+  {
+   "start": "2026-12-22T13:15",
+   "end": "2026-12-22T14:45",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "wyk",
+   "no": "6/8",
+   "room": "Paw.F 104",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2026-12-22T15:00",
+   "end": "2026-12-22T16:30",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "ćw",
+   "no": "12/15",
+   "room": "Paw.F 109",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2027-01-07T09:45",
+   "end": "2027-01-07T11:15",
+   "subject": "Język obcy I · angielski",
+   "kind": "lek",
+   "no": "70/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2027-01-08T08:00",
+   "end": "2027-01-08T09:30",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "wyk",
+   "no": "7/8",
+   "room": "Paw.B 351",
+   "teacher": "dr Paweł Łukasik",
+   "note": ""
+  },
+  {
+   "start": "2027-01-08T11:30",
+   "end": "2027-01-08T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "ćw",
+   "no": "13/15",
+   "room": "Paw.F 715",
+   "teacher": "mgr Riccardo Valente",
+   "note": ""
+  },
+  {
+   "start": "2027-01-11T09:45",
+   "end": "2027-01-11T11:15",
+   "subject": "Język obcy I · niemiecki",
+   "kind": "lek",
+   "no": "72/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2027-01-11T11:30",
+   "end": "2027-01-11T13:00",
+   "subject": "Proseminarium: Prowadzenie, dokumentacja i prezentacja wyników badań",
+   "kind": "kon",
+   "no": "7/8",
+   "room": "Paw.U sala T (Kat. ZKL)",
+   "teacher": "dr Renata Winkler",
+   "note": ""
+  },
+  {
+   "start": "2027-01-11T13:15",
+   "end": "2027-01-11T14:45",
+   "subject": "Metody twórczego myślenia",
+   "kind": "wyk",
+   "no": "7/8",
+   "room": "Paw.S sala 7",
+   "teacher": "prof. UEK dr hab. Tomasz Kafel",
+   "note": ""
+  },
+  {
+   "start": "2027-01-11T15:00",
+   "end": "2027-01-11T16:30",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "14/15",
+   "room": "Bibl.425",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": ""
+  },
+  {
+   "start": "2027-01-12T11:30",
+   "end": "2027-01-12T13:00",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "wyk",
+   "no": "7/8",
+   "room": "Paw.B 251",
+   "teacher": "prof. UEK dr hab. Paweł Cabała",
+   "note": ""
+  },
+  {
+   "start": "2027-01-12T13:15",
+   "end": "2027-01-12T14:45",
+   "subject": "Biznes plan",
+   "kind": "wyk",
+   "no": "7/8",
+   "room": "Paw.S sala 6",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2027-01-12T15:00",
+   "end": "2027-01-12T16:30",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "ćw",
+   "no": "13/15",
+   "room": "Paw.F 109",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2027-01-12T16:45",
+   "end": "2027-01-12T18:15",
+   "subject": "Biznes plan",
+   "kind": "ćw",
+   "no": "7/8",
+   "room": "Paw.B 151",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2027-01-13T11:30",
+   "end": "2027-01-13T13:00",
+   "subject": "Zarządzanie prawami własności intelektualnej",
+   "kind": "wyk",
+   "no": "14/15",
+   "room": "Paw.F 613",
+   "teacher": "dr Mateusz Tondera",
+   "note": ""
+  },
+  {
+   "start": "2027-01-13T15:00",
+   "end": "2027-01-13T16:30",
+   "subject": "Metody twórczego myślenia",
+   "kind": "ćw",
+   "no": "14/15",
+   "room": "Bibl.425",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": ""
+  },
+  {
+   "start": "2027-01-14T09:45",
+   "end": "2027-01-14T11:15",
+   "subject": "Język obcy I · angielski",
+   "kind": "lek",
+   "no": "76/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2027-01-15T11:30",
+   "end": "2027-01-15T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "ćw",
+   "no": "14/15",
+   "room": "Paw.F 715",
+   "teacher": "mgr Riccardo Valente",
+   "note": ""
+  },
+  {
+   "start": "2027-01-18T09:45",
+   "end": "2027-01-18T11:15",
+   "subject": "Język obcy I · niemiecki",
+   "kind": "lek",
+   "no": "78/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2027-01-18T14:00",
+   "end": "2027-01-18T14:45",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "wyk",
+   "no": "8/8",
+   "room": "Paw.S sala 7",
+   "teacher": "prof. UEK dr hab. Paweł Cabała",
+   "note": ""
+  },
+  {
+   "start": "2027-01-18T15:00",
+   "end": "2027-01-18T16:30",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "15/15",
+   "room": "Bibl.425",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": ""
+  },
+  {
+   "start": "2027-01-19T13:15",
+   "end": "2027-01-19T14:45",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "wyk",
+   "no": "7/8",
+   "room": "Paw.F 104",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2027-01-19T15:00",
+   "end": "2027-01-19T16:30",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "ćw",
+   "no": "14/15",
+   "room": "Paw.F 109",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2027-01-20T11:30",
+   "end": "2027-01-20T13:00",
+   "subject": "Zarządzanie prawami własności intelektualnej",
+   "kind": "wyk",
+   "no": "15/15",
+   "room": "Paw.F 613",
+   "teacher": "dr Mateusz Tondera",
+   "note": ""
+  },
+  {
+   "start": "2027-01-20T14:00",
+   "end": "2027-01-20T14:45",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "wyk",
+   "no": "8/8",
+   "room": "Paw.S sala 8",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2027-01-20T15:00",
+   "end": "2027-01-20T16:30",
+   "subject": "Metody twórczego myślenia",
+   "kind": "ćw",
+   "no": "15/15",
+   "room": "Bibl.425",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": ""
+  },
+  {
+   "start": "2027-01-20T16:45",
+   "end": "2027-01-20T18:15",
+   "subject": "Zarządzanie finansami przedsiębiorstwa",
+   "kind": "ćw",
+   "no": "15/15",
+   "room": "Paw.F 414 (Kat. Gosp.Reg.)",
+   "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
+   "note": ""
+  },
+  {
+   "start": "2027-01-21T08:00",
+   "end": "2027-01-21T08:45",
+   "subject": "Proseminarium: Prowadzenie, dokumentacja i prezentacja wyników badań",
+   "kind": "kon",
+   "no": "8/8",
+   "room": "Paw.F 416",
+   "teacher": "dr Renata Winkler",
+   "note": ""
+  },
+  {
+   "start": "2027-01-21T09:45",
+   "end": "2027-01-21T11:15",
+   "subject": "Język obcy I · angielski",
+   "kind": "lek",
+   "no": "82/83",
+   "room": "",
+   "teacher": "",
+   "note": ""
+  },
+  {
+   "start": "2027-01-21T13:15",
+   "end": "2027-01-21T14:00",
+   "subject": "Metody twórczego myślenia",
+   "kind": "wyk",
+   "no": "8/8",
+   "room": "Paw.F 109",
+   "teacher": "prof. UEK dr hab. Tomasz Kafel",
+   "note": ""
+  },
+  {
+   "start": "2027-01-21T14:00",
+   "end": "2027-01-21T14:45",
+   "subject": "Biznes plan",
+   "kind": "wyk",
+   "no": "8/8",
+   "room": "Paw.S sala 7",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2027-01-21T15:00",
+   "end": "2027-01-21T15:45",
+   "subject": "Biznes plan",
+   "kind": "ćw",
+   "no": "8/8",
+   "room": "Paw.E sala H (KSB)",
+   "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
+   "note": ""
+  },
+  {
+   "start": "2027-01-22T08:45",
+   "end": "2027-01-22T09:30",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "wyk",
+   "no": "8/8",
+   "room": "Paw.B 351",
+   "teacher": "dr Paweł Łukasik",
+   "note": ""
+  },
+  {
+   "start": "2027-01-22T11:30",
+   "end": "2027-01-22T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "ćw",
+   "no": "15/15",
+   "room": "Paw.F 715",
+   "teacher": "mgr Riccardo Valente",
+   "note": ""
+  },
+  {
+   "start": "2027-01-26T11:30",
+   "end": "2027-01-26T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "egz",
+   "no": "1/1",
+   "room": "Paw.C sala D",
+   "teacher": "dr Paweł Łukasik",
+   "note": ""
+  }
+ ]
+}
