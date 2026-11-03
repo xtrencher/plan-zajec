@@ -1,6 +1,6 @@
 {
   "group": "ZZIBS1-2311",
-  "icsUrl": "https://a2c.uek.krakow.pl/api/calendar?url=https%3A%2F%2Fplanzajec.uek.krakow.pl%2Findex.php%3Ftyp%3DG%26id%3D171271%26okres%3D3",
+  "icsUrl": "https://a2c.uek.krakow.pl/api/calendar?url=https%3A%2F%2Fplanzajec.uek.krakow.pl%2Findex.php%3Ftyp%3DG%26id%3D171271%26okres%3D3&lektoraty=1",
   "lektoraty": [
     { "day": "pn", "time": "09:45", "label": "niemiecki" },
     { "day": "cz", "time": "09:45", "label": "angielski" }

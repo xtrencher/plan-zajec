@@ -11,20 +11,27 @@ const KEEP_CHANGES = 40;        // ile ostatnich zmian trzymać w historii
 const KEEPALIVE_DAYS = 25;      // GitHub wyłącza harmonogram po 60 dniach bez commitów
 
 // ---------- pobranie ----------
+import { execFile } from "node:child_process";
+import { promisify } from "node:util";
+const run = promisify(execFile);
+
+// Serwer UEK bywa wolny i zrywa połączenia z zagranicy – dlatego curl z długim czasem połączenia i ponowieniami.
 async function getIcs() {
   if (process.env.ICS_FILE) return readFile(process.env.ICS_FILE, "utf8");
   let lastErr;
-  for (let i = 0; i < 3; i++) {
+  for (let i = 1; i <= 6; i++) {
     try {
-      const res = await fetch(config.icsUrl, {
-        headers: { "User-Agent": "plan-zajec-github-action", "Cache-Control": "no-cache" },
-        signal: AbortSignal.timeout(30000),
-      });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const text = await res.text();
-      if (!text.includes("BEGIN:VCALENDAR")) throw new Error("Odpowiedź nie jest kalendarzem");
-      return text;
-    } catch (e) { lastErr = e; await new Promise(r => setTimeout(r, 4000)); }
+      const { stdout } = await run("curl", ["-4", "-sS", "--fail", "--connect-timeout", "45", "-m", "90",
+        "-H", "Cache-Control: no-cache", "-A", "plan-zajec-github-action", config.icsUrl],
+        { maxBuffer: 20 * 1024 * 1024, encoding: "utf8" });
+      if (!stdout.includes("BEGIN:VCALENDAR")) throw new Error("Odpowiedź nie jest kalendarzem: " + stdout.slice(0, 80));
+      if (i > 1) console.log(`Pobrano za ${i}. razem.`);
+      return stdout;
+    } catch (e) {
+      lastErr = e;
+      console.log(`Próba ${i} nieudana: ${(e.stderr || e.message || "").toString().trim().slice(0, 200)}`);
+      await new Promise(r => setTimeout(r, 3000 * i));
+    }
   }
   throw lastErr;
 }
@@ -132,13 +139,27 @@ const nowIso = now.toISOString();
 
 let prev = null;
 try { prev = JSON.parse(await readFile(DATA_PATH, "utf8")); } catch {}
+if (prev && prev.reset) prev = null; // nowy punkt odniesienia, bez zgłaszania zmian
 
-const icsText = await getIcs();
+let icsText;
+try { icsText = await getIcs(); }
+catch (e) {
+  // nie oznaczamy uruchomienia jako błąd (GitHub wysyłałby maila co 5 minut) – spróbujemy za 5 minut
+  console.log("::warning::Serwer UEK nie odpowiedział, plan zostaje bez zmian. Kolejna próba za kilka minut.");
+  process.exit(0);
+}
 const parsed = parseIcs(icsText).map(normalize).filter(e => e.start && e.end);
 if (parsed.length < 20) throw new Error(`Podejrzanie mało zajęć (${parsed.length}) – nie nadpisuję planu.`);
 const events = parsed.map(selectMine).filter(Boolean).sort((a, b) => a.start.localeCompare(b.start) || a.subject.localeCompare(b.subject));
 
 const changes = prev ? diff(prev.events, events, nowLocal) : [];
+const removedCount = changes.filter(c => c.startsWith("Usunięte")).length;
+const futureCount = (prev?.events || []).filter(e => !e.removed && e.end > nowLocal).length;
+if (removedCount > 10 && removedCount > futureCount * 0.2) {
+  // prawie na pewno chwilowy błąd serwera UEK (np. obcięty kalendarz) – nie nadpisujemy planu
+  console.log(`::warning::Podejrzanie dużo usuniętych zajęć (${removedCount}) – pomijam tę aktualizację.`);
+  process.exit(0);
+}
 
 // zajęcia, które zniknęły z planu – zostają widoczne jako przekreślone przez KEEP_REMOVED_DAYS
 const newKeys = new Set(events.map(keyOf));
