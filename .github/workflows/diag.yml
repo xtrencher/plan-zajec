@@ -1,11 +1,16 @@
 name: diag
-on: [workflow_dispatch, push]
+on: [workflow_dispatch]
 jobs:
   d:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          U='https://a2c.uek.krakow.pl/api/calendar?url=https%3A%2F%2Fplanzajec.uek.krakow.pl%2Findex.php%3Ftyp%3DG%26id%3D171271%26okres%3D3'
-          for i in 1 2 3 4 5 6; do curl -4 -sS --connect-timeout 60 -m 120 -o out.ics -w "try$i %{http_code} connect=%{time_connect} total=%{time_total} size=%{size_download}\n" "$U" || true; done
-          head -c 300 out.ics || true
-          for i in 1 2 3; do curl -4 -sS --connect-timeout 60 -m 60 -o /dev/null -w "planzajec %{http_code} connect=%{time_connect}\n" https://planzajec.uek.krakow.pl/ || true; done
+          C="curl -4 -sS --connect-timeout 60 -m 120 --retry 5 --retry-all-errors --retry-delay 3"
+          $C https://a2c.uek.krakow.pl/ -o index.html || true
+          grep -oE '(src|href)="[^"]+\.(js|mjs)[^"]*"' index.html || true
+          for s in $(grep -oE 'src="[^"]+\.m?js[^"]*"' index.html | sed 's/src="//;s/"$//'); do
+            case $s in http*) u=$s;; /*) u=https://a2c.uek.krakow.pl$s;; *) u=https://a2c.uek.krakow.pl/$s;; esac
+            $C "$u" -o s.js || continue
+            echo "== $u"; grep -oE '.{0,160}(api/calendar|lektor)[^;]{0,200}' s.js | head -20
+          done
+          grep -oE '.{0,160}(api/calendar|lektor)[^<]{0,200}' index.html | head -20
