@@ -1,19 +1,98 @@
 {
  "group": "ZZIBS1-2311",
- "savedAt": "2026-11-03T12:05:47.075Z",
- "lastChangeAt": null,
- "changes": [],
- "events": [
+ "savedAt": "2026-11-03T12:20:07.127Z",
+ "lastChangeAt": "2026-11-03T12:20:07.127Z",
+ "changes": [
   {
-   "start": "2026-10-01T09:45",
-   "end": "2026-10-01T11:15",
-   "subject": "Język obcy I · angielski",
-   "kind": "lek",
-   "no": "1/83",
-   "room": "",
-   "teacher": "",
-   "note": ""
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Zmiana: Biznes plan, wt 3.11 13:15 – sala brak sali lub zajęcia zdalne → –"
   },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Zmiana: Biznes plan, wt 3.11 16:45 – sala brak sali lub zajęcia zdalne → –"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · angielski (lektorat), cz 5.11 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · niemiecki (lektorat), pn 9.11 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · angielski (lektorat), cz 12.11 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · niemiecki (lektorat), pn 16.11 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Rezerwacja (wykład), śr 18.11 18:30"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · angielski (lektorat), cz 19.11 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · niemiecki (lektorat), pn 23.11 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · angielski (lektorat), cz 26.11 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · niemiecki (lektorat), pn 30.11 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · angielski (lektorat), cz 3.12 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · niemiecki (lektorat), pn 7.12 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · angielski (lektorat), cz 10.12 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · niemiecki (lektorat), pn 14.12 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · angielski (lektorat), cz 17.12 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · niemiecki (lektorat), pn 21.12 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · angielski (lektorat), cz 7.01 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · niemiecki (lektorat), pn 11.01 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · angielski (lektorat), cz 14.01 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · niemiecki (lektorat), pn 18.01 09:45"
+  },
+  {
+   "at": "2026-11-03T12:20:07.127Z",
+   "text": "Usunięte z planu: Język obcy I · angielski (lektorat), cz 21.01 09:45"
+  }
+ ],
+ "events": [
   {
    "start": "2026-10-02T08:00",
    "end": "2026-10-02T09:30",
@@ -32,16 +111,6 @@
    "no": "1/15",
    "room": "Paw.F 715",
    "teacher": "mgr Riccardo Valente",
-   "note": ""
-  },
-  {
-   "start": "2026-10-05T09:45",
-   "end": "2026-10-05T11:15",
-   "subject": "Język obcy I · niemiecki",
-   "kind": "lek",
-   "no": "3/83",
-   "room": "",
-   "teacher": "",
    "note": ""
   },
   {
@@ -95,16 +164,6 @@
    "note": ""
   },
   {
-   "start": "2026-10-08T09:45",
-   "end": "2026-10-08T11:15",
-   "subject": "Język obcy I · angielski",
-   "kind": "lek",
-   "no": "6/83",
-   "room": "",
-   "teacher": "",
-   "note": ""
-  },
-  {
    "start": "2026-10-09T11:30",
    "end": "2026-10-09T13:00",
    "subject": "Gospodarka oparta na wiedzy",
@@ -122,16 +181,6 @@
    "no": "2/15",
    "room": "Paw.B 351",
    "teacher": "mgr inż. Katarzyna Sułek",
-   "note": ""
-  },
-  {
-   "start": "2026-10-12T09:45",
-   "end": "2026-10-12T11:15",
-   "subject": "Język obcy I · niemiecki",
-   "kind": "lek",
-   "no": "8/83",
-   "room": "",
-   "teacher": "",
    "note": ""
   },
   {
@@ -215,16 +264,6 @@
    "note": ""
   },
   {
-   "start": "2026-10-15T09:45",
-   "end": "2026-10-15T11:15",
-   "subject": "Język obcy I · angielski",
-   "kind": "lek",
-   "no": "12/83",
-   "room": "",
-   "teacher": "",
-   "note": ""
-  },
-  {
    "start": "2026-10-16T08:00",
    "end": "2026-10-16T09:30",
    "subject": "Gospodarka oparta na wiedzy",
@@ -242,16 +281,6 @@
    "no": "3/15",
    "room": "Paw.F 715",
    "teacher": "mgr Riccardo Valente",
-   "note": ""
-  },
-  {
-   "start": "2026-10-19T09:45",
-   "end": "2026-10-19T11:15",
-   "subject": "Język obcy I · niemiecki",
-   "kind": "lek",
-   "no": "14/83",
-   "room": "",
-   "teacher": "",
    "note": ""
   },
   {
@@ -345,16 +374,6 @@
    "note": ""
   },
   {
-   "start": "2026-10-22T09:45",
-   "end": "2026-10-22T11:15",
-   "subject": "Język obcy I · angielski",
-   "kind": "lek",
-   "no": "18/83",
-   "room": "",
-   "teacher": "",
-   "note": ""
-  },
-  {
    "start": "2026-10-23T11:30",
    "end": "2026-10-23T13:00",
    "subject": "Gospodarka oparta na wiedzy",
@@ -362,16 +381,6 @@
    "no": "4/15",
    "room": "Paw.F 715",
    "teacher": "mgr Riccardo Valente",
-   "note": ""
-  },
-  {
-   "start": "2026-10-26T09:45",
-   "end": "2026-10-26T11:15",
-   "subject": "Język obcy I · niemiecki",
-   "kind": "lek",
-   "no": "20/83",
-   "room": "",
-   "teacher": "",
    "note": ""
   },
   {
@@ -435,16 +444,6 @@
    "note": ""
   },
   {
-   "start": "2026-10-29T09:45",
-   "end": "2026-10-29T11:15",
-   "subject": "Język obcy I · angielski",
-   "kind": "lek",
-   "no": "24/83",
-   "room": "",
-   "teacher": "",
-   "note": ""
-  },
-  {
    "start": "2026-10-29T11:30",
    "end": "2026-10-29T13:00",
    "subject": "Zarządzanie prawami własności intelektualnej",
@@ -482,16 +481,6 @@
    "no": "6/15",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
-   "note": ""
-  },
-  {
-   "start": "2026-11-02T09:45",
-   "end": "2026-11-02T11:15",
-   "subject": "Język obcy I · niemiecki",
-   "kind": "lek",
-   "no": "26/83",
-   "room": "",
-   "teacher": "",
    "note": ""
   },
   {
@@ -540,9 +529,10 @@
    "subject": "Biznes plan",
    "kind": "przen",
    "no": "1/2",
-   "room": "brak sali lub zajęcia zdalne",
+   "room": "",
    "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
-   "note": "na 26.11."
+   "note": "na 26.11.",
+   "changedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-11-03T15:00",
@@ -560,9 +550,10 @@
    "subject": "Biznes plan",
    "kind": "przen",
    "no": "2/2",
-   "room": "brak sali lub zajęcia zdalne",
+   "room": "",
    "teacher": "prof. UEK dr hab. Krzysztof Kosiec",
-   "note": "na 26.11."
+   "note": "na 26.11.",
+   "changedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-11-04T11:30",
@@ -592,7 +583,9 @@
    "no": "30/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-11-06T11:30",
@@ -612,7 +605,9 @@
    "no": "32/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-11-09T15:00",
@@ -652,7 +647,9 @@
    "no": "35/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-11-13T08:00",
@@ -682,7 +679,9 @@
    "no": "37/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-11-16T11:30",
@@ -782,7 +781,9 @@
    "no": "1/1",
    "room": "",
    "teacher": "Parlament Studencki Uek",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-11-19T09:45",
@@ -792,7 +793,9 @@
    "no": "41/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-11-19T11:30",
@@ -832,7 +835,9 @@
    "no": "43/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-11-23T15:00",
@@ -902,7 +907,9 @@
    "no": "47/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-11-26T11:30",
@@ -952,7 +959,9 @@
    "no": "49/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-11-30T11:30",
@@ -1052,7 +1061,9 @@
    "no": "53/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-12-04T11:30",
@@ -1072,7 +1083,9 @@
    "no": "55/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-12-07T15:00",
@@ -1132,7 +1145,9 @@
    "no": "59/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-12-11T08:00",
@@ -1162,7 +1177,9 @@
    "no": "61/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-12-14T11:30",
@@ -1262,7 +1279,9 @@
    "no": "65/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-12-17T11:30",
@@ -1292,7 +1311,9 @@
    "no": "67/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2026-12-21T15:00",
@@ -1332,7 +1353,9 @@
    "no": "70/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2027-01-08T08:00",
@@ -1362,7 +1385,9 @@
    "no": "72/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2027-01-11T11:30",
@@ -1462,7 +1487,9 @@
    "no": "76/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2027-01-15T11:30",
@@ -1482,7 +1509,9 @@
    "no": "78/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2027-01-18T14:00",
@@ -1582,7 +1611,9 @@
    "no": "82/83",
    "room": "",
    "teacher": "",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-03T12:20:07.127Z"
   },
   {
    "start": "2027-01-21T13:15",
