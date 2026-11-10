@@ -1,8 +1,13 @@
 {
  "group": "ZZIBS1-2311",
- "savedAt": "2026-11-03T12:26:31.236Z",
- "lastChangeAt": null,
- "changes": [],
+ "savedAt": "2026-11-10T19:12:05.967Z",
+ "lastChangeAt": "2026-11-10T19:12:05.967Z",
+ "changes": [
+  {
+   "at": "2026-11-10T19:12:05.967Z",
+   "text": "Nowe: Podstawy organizacji i zarządzania, Zarządzanie procesami innowacyjnymi, Zarządzanie projektami w turystyce (egzamin), cz 28.01 08:45 – Paw.S sala 2, Paw.S sala 3"
+  }
+ ],
  "events": [
   {
    "start": "2026-10-01T09:45",
@@ -1633,6 +1638,17 @@
    "room": "Paw.C sala D",
    "teacher": "dr Paweł Łukasik",
    "note": ""
+  },
+  {
+   "start": "2027-01-28T08:45",
+   "end": "2027-01-28T10:30",
+   "subject": "Podstawy organizacji i zarządzania, Zarządzanie procesami innowacyjnymi, Zarządzanie projektami w turystyce",
+   "kind": "egz",
+   "no": "1/1",
+   "room": "Paw.S sala 2, Paw.S sala 3",
+   "teacher": "prof. UEK dr hab. Paweł Cabała",
+   "note": "",
+   "changedAt": "2026-11-10T19:12:05.967Z"
   }
  ]
 }
