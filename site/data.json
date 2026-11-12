@@ -1,8 +1,16 @@
 {
  "group": "ZZIBS1-2311",
- "savedAt": "2026-11-10T19:12:05.967Z",
- "lastChangeAt": "2026-11-10T19:12:05.967Z",
+ "savedAt": "2026-11-12T18:13:24.854Z",
+ "lastChangeAt": "2026-11-12T18:13:24.854Z",
  "changes": [
+  {
+   "at": "2026-11-12T18:13:24.854Z",
+   "text": "Nowe: Gospodarka oparta na wiedzy (ćwiczenia), cz 19.11 13:15 – Paw.U sala N"
+  },
+  {
+   "at": "2026-11-12T18:13:24.854Z",
+   "text": "Przeniesione: Gospodarka oparta na wiedzy (ćwiczenia), pt 20.11 11:30"
+  },
   {
    "at": "2026-11-10T19:12:05.967Z",
    "text": "Nowe: Podstawy organizacji i zarządzania, Zarządzanie procesami innowacyjnymi, Zarządzanie projektami w turystyce (egzamin), cz 28.01 08:45 – Paw.S sala 2, Paw.S sala 3"
@@ -800,14 +808,26 @@
    "note": ""
   },
   {
-   "start": "2026-11-20T11:30",
-   "end": "2026-11-20T13:00",
+   "start": "2026-11-19T13:15",
+   "end": "2026-11-19T14:45",
    "subject": "Gospodarka oparta na wiedzy",
    "kind": "ćw",
    "no": "8/15",
-   "room": "Paw.F 715",
+   "room": "Paw.U sala N",
    "teacher": "mgr Riccardo Valente",
-   "note": ""
+   "note": "",
+   "changedAt": "2026-11-12T18:13:24.854Z"
+  },
+  {
+   "start": "2026-11-20T11:30",
+   "end": "2026-11-20T13:00",
+   "subject": "Gospodarka oparta na wiedzy",
+   "kind": "przen",
+   "no": "1/1",
+   "room": "",
+   "teacher": "mgr Riccardo Valente",
+   "note": "",
+   "changedAt": "2026-11-12T18:13:24.854Z"
   },
   {
    "start": "2026-11-20T13:15",
