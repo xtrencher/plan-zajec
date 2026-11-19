@@ -1,8 +1,16 @@
 {
  "group": "ZZIBS1-2311",
- "savedAt": "2026-11-13T18:44:35.139Z",
- "lastChangeAt": "2026-11-13T18:44:35.139Z",
+ "savedAt": "2026-11-19T16:46:32.450Z",
+ "lastChangeAt": "2026-11-19T16:46:32.450Z",
  "changes": [
+  {
+   "at": "2026-11-19T16:46:32.450Z",
+   "text": "Nowe: Metody twórczego myślenia (ćwiczenia zdalne 1/1), pt 20.11 13:15 – https://services.uek.krakow.pl/schedule/class/6914382"
+  },
+  {
+   "at": "2026-11-19T16:46:32.450Z",
+   "text": "Usunięte z planu: Metody twórczego myślenia (ćwiczenia), pt 20.11 13:15"
+  },
   {
    "at": "2026-11-13T18:44:35.139Z",
    "text": "Przeniesione: Biznes plan (wykład), wt 17.11 13:15 → L4"
@@ -110,7 +118,7 @@
    "end": "2026-10-07T16:30",
    "subject": "Metody twórczego myślenia",
    "kind": "ćw",
-   "no": "1/15",
+   "no": "1/14",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
    "note": ""
@@ -140,7 +148,7 @@
    "end": "2026-10-09T14:45",
    "subject": "Metody twórczego myślenia",
    "kind": "ćw",
-   "no": "2/15",
+   "no": "2/14",
    "room": "Paw.B 351",
    "teacher": "mgr inż. Katarzyna Sułek",
    "note": ""
@@ -230,7 +238,7 @@
    "end": "2026-10-14T16:30",
    "subject": "Metody twórczego myślenia",
    "kind": "ćw",
-   "no": "3/15",
+   "no": "3/14",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
    "note": ""
@@ -360,7 +368,7 @@
    "end": "2026-10-21T16:30",
    "subject": "Metody twórczego myślenia",
    "kind": "ćw",
-   "no": "4/15",
+   "no": "4/14",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
    "note": ""
@@ -450,7 +458,7 @@
    "end": "2026-10-28T16:30",
    "subject": "Metody twórczego myślenia",
    "kind": "ćw",
-   "no": "5/15",
+   "no": "5/14",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
    "note": ""
@@ -500,7 +508,7 @@
    "end": "2026-10-30T14:45",
    "subject": "Metody twórczego myślenia",
    "kind": "ćw",
-   "no": "6/15",
+   "no": "6/14",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
    "note": ""
@@ -600,7 +608,7 @@
    "end": "2026-11-04T16:30",
    "subject": "Metody twórczego myślenia",
    "kind": "ćw",
-   "no": "7/15",
+   "no": "7/14",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
    "note": ""
@@ -792,7 +800,7 @@
    "end": "2026-11-18T16:30",
    "subject": "Metody twórczego myślenia",
    "kind": "ćw",
-   "no": "8/15",
+   "no": "8/14",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
    "note": ""
@@ -847,7 +855,20 @@
    "no": "9/15",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
-   "note": ""
+   "note": "",
+   "removed": true,
+   "removedAt": "2026-11-19T16:46:32.450Z"
+  },
+  {
+   "start": "2026-11-20T13:15",
+   "end": "2026-11-20T14:45",
+   "subject": "Metody twórczego myślenia (ćwiczenia zdalne 1/1)",
+   "kind": "",
+   "no": "",
+   "room": "https://services.uek.krakow.pl/schedule/class/6914382",
+   "teacher": "mgr inż. Katarzyna Sułek",
+   "note": "zaj. okazjonalne zdalne",
+   "changedAt": "2026-11-19T16:46:32.450Z"
   },
   {
    "start": "2026-11-23T09:45",
@@ -914,7 +935,7 @@
    "end": "2026-11-25T16:30",
    "subject": "Metody twórczego myślenia",
    "kind": "ćw",
-   "no": "10/15",
+   "no": "9/14",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
    "note": ""
@@ -1064,7 +1085,7 @@
    "end": "2026-12-02T16:30",
    "subject": "Metody twórczego myślenia",
    "kind": "ćw",
-   "no": "11/15",
+   "no": "10/14",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
    "note": ""
@@ -1144,7 +1165,7 @@
    "end": "2026-12-09T16:30",
    "subject": "Metody twórczego myślenia",
    "kind": "ćw",
-   "no": "12/15",
+   "no": "11/14",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
    "note": ""
@@ -1274,7 +1295,7 @@
    "end": "2026-12-16T16:30",
    "subject": "Metody twórczego myślenia",
    "kind": "ćw",
-   "no": "13/15",
+   "no": "12/14",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
    "note": ""
@@ -1474,7 +1495,7 @@
    "end": "2027-01-13T16:30",
    "subject": "Metody twórczego myślenia",
    "kind": "ćw",
-   "no": "14/15",
+   "no": "13/14",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
    "note": ""
@@ -1574,7 +1595,7 @@
    "end": "2027-01-20T16:30",
    "subject": "Metody twórczego myślenia",
    "kind": "ćw",
-   "no": "15/15",
+   "no": "14/14",
    "room": "Bibl.425",
    "teacher": "mgr inż. Katarzyna Sułek",
    "note": ""
