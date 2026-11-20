@@ -1,6 +1,6 @@
 {
  "group": "ZZIBS1-2311",
- "savedAt": "2026-11-20T12:46:01.039Z",
+ "savedAt": "2026-11-20T20:47:17.272Z",
  "lastChangeAt": "2026-11-20T12:46:01.039Z",
  "changes": [
   {
@@ -862,18 +862,6 @@
    "teacher": "mgr Riccardo Valente",
    "note": "",
    "changedAt": "2026-11-12T18:13:24.854Z"
-  },
-  {
-   "start": "2026-11-20T13:15",
-   "end": "2026-11-20T14:45",
-   "subject": "Metody twórczego myślenia",
-   "kind": "ćw",
-   "no": "9/15",
-   "room": "Bibl.425",
-   "teacher": "mgr inż. Katarzyna Sułek",
-   "note": "",
-   "removed": true,
-   "removedAt": "2026-11-19T16:46:32.450Z"
   },
   {
    "start": "2026-11-20T13:15",
