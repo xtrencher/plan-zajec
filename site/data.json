@@ -1,8 +1,24 @@
 {
  "group": "ZZIBS1-2311",
- "savedAt": "2026-11-19T16:46:32.450Z",
- "lastChangeAt": "2026-11-19T16:46:32.450Z",
+ "savedAt": "2026-11-20T12:46:01.039Z",
+ "lastChangeAt": "2026-11-20T12:46:01.039Z",
  "changes": [
+  {
+   "at": "2026-11-20T12:46:01.039Z",
+   "text": "Przeniesione: Gospodarka oparta na wiedzy (ćwiczenia), pt 4.12 11:30"
+  },
+  {
+   "at": "2026-11-20T12:46:01.039Z",
+   "text": "Nowe: Gospodarka oparta na wiedzy (ćwiczenia zdalne 1/2), cz 10.12 15:00 – https://services.uek.krakow.pl/schedule/class/6949816"
+  },
+  {
+   "at": "2026-11-20T12:46:01.039Z",
+   "text": "Przeniesione: Gospodarka oparta na wiedzy (ćwiczenia), pt 18.12 11:30"
+  },
+  {
+   "at": "2026-11-20T12:46:01.039Z",
+   "text": "Nowe: Gospodarka oparta na wiedzy (ćwiczenia zdalne 2/2), cz 14.01 15:00 – https://services.uek.krakow.pl/schedule/class/6949820"
+  },
   {
    "at": "2026-11-19T16:46:32.450Z",
    "text": "Nowe: Metody twórczego myślenia (ćwiczenia zdalne 1/1), pt 20.11 13:15 – https://services.uek.krakow.pl/schedule/class/6914382"
@@ -58,7 +74,7 @@
    "end": "2026-10-02T13:00",
    "subject": "Gospodarka oparta na wiedzy",
    "kind": "ćw",
-   "no": "1/15",
+   "no": "1/13",
    "room": "Paw.F 715",
    "teacher": "mgr Riccardo Valente",
    "note": ""
@@ -138,7 +154,7 @@
    "end": "2026-10-09T13:00",
    "subject": "Gospodarka oparta na wiedzy",
    "kind": "ćw",
-   "no": "2/15",
+   "no": "2/13",
    "room": "Paw.F 715",
    "teacher": "mgr Riccardo Valente",
    "note": ""
@@ -268,7 +284,7 @@
    "end": "2026-10-16T13:00",
    "subject": "Gospodarka oparta na wiedzy",
    "kind": "ćw",
-   "no": "3/15",
+   "no": "3/13",
    "room": "Paw.F 715",
    "teacher": "mgr Riccardo Valente",
    "note": ""
@@ -388,7 +404,7 @@
    "end": "2026-10-23T13:00",
    "subject": "Gospodarka oparta na wiedzy",
    "kind": "ćw",
-   "no": "4/15",
+   "no": "4/13",
    "room": "Paw.F 715",
    "teacher": "mgr Riccardo Valente",
    "note": ""
@@ -498,7 +514,7 @@
    "end": "2026-10-30T13:00",
    "subject": "Gospodarka oparta na wiedzy",
    "kind": "ćw",
-   "no": "5/15",
+   "no": "5/13",
    "room": "Paw.F 715",
    "teacher": "mgr Riccardo Valente",
    "note": ""
@@ -628,7 +644,7 @@
    "end": "2026-11-06T13:00",
    "subject": "Gospodarka oparta na wiedzy",
    "kind": "ćw",
-   "no": "6/15",
+   "no": "6/13",
    "room": "Paw.F 715",
    "teacher": "mgr Riccardo Valente",
    "note": ""
@@ -698,7 +714,7 @@
    "end": "2026-11-13T13:00",
    "subject": "Gospodarka oparta na wiedzy",
    "kind": "ćw",
-   "no": "7/15",
+   "no": "7/13",
    "room": "Paw.F 715",
    "teacher": "mgr Riccardo Valente",
    "note": ""
@@ -830,7 +846,7 @@
    "end": "2026-11-19T14:45",
    "subject": "Gospodarka oparta na wiedzy",
    "kind": "ćw",
-   "no": "8/15",
+   "no": "8/13",
    "room": "Paw.U sala N",
    "teacher": "mgr Riccardo Valente",
    "note": "",
@@ -841,7 +857,7 @@
    "end": "2026-11-20T13:00",
    "subject": "Gospodarka oparta na wiedzy",
    "kind": "przen",
-   "no": "1/1",
+   "no": "1/3",
    "room": "",
    "teacher": "mgr Riccardo Valente",
    "note": "",
@@ -985,7 +1001,7 @@
    "end": "2026-11-27T13:00",
    "subject": "Gospodarka oparta na wiedzy",
    "kind": "ćw",
-   "no": "9/15",
+   "no": "9/13",
    "room": "Paw.F 715",
    "teacher": "mgr Riccardo Valente",
    "note": ""
@@ -1104,11 +1120,12 @@
    "start": "2026-12-04T11:30",
    "end": "2026-12-04T13:00",
    "subject": "Gospodarka oparta na wiedzy",
-   "kind": "ćw",
-   "no": "10/15",
-   "room": "Paw.F 715",
+   "kind": "przen",
+   "no": "2/3",
+   "room": "",
    "teacher": "mgr Riccardo Valente",
-   "note": ""
+   "note": "",
+   "changedAt": "2026-11-20T12:46:01.039Z"
   },
   {
    "start": "2026-12-07T09:45",
@@ -1181,6 +1198,17 @@
    "note": ""
   },
   {
+   "start": "2026-12-10T15:00",
+   "end": "2026-12-10T16:30",
+   "subject": "Gospodarka oparta na wiedzy (ćwiczenia zdalne 1/2)",
+   "kind": "",
+   "no": "",
+   "room": "https://services.uek.krakow.pl/schedule/class/6949816",
+   "teacher": "mgr Riccardo Valente",
+   "note": "zaj. zdalne okazjonalne",
+   "changedAt": "2026-11-20T12:46:01.039Z"
+  },
+  {
    "start": "2026-12-11T08:00",
    "end": "2026-12-11T09:30",
    "subject": "Gospodarka oparta na wiedzy",
@@ -1195,7 +1223,7 @@
    "end": "2026-12-11T13:00",
    "subject": "Gospodarka oparta na wiedzy",
    "kind": "ćw",
-   "no": "11/15",
+   "no": "10/13",
    "room": "Paw.F 715",
    "teacher": "mgr Riccardo Valente",
    "note": ""
@@ -1324,11 +1352,12 @@
    "start": "2026-12-18T11:30",
    "end": "2026-12-18T13:00",
    "subject": "Gospodarka oparta na wiedzy",
-   "kind": "ćw",
-   "no": "12/15",
-   "room": "Paw.F 715",
+   "kind": "przen",
+   "no": "3/3",
+   "room": "",
    "teacher": "mgr Riccardo Valente",
-   "note": ""
+   "note": "",
+   "changedAt": "2026-11-20T12:46:01.039Z"
   },
   {
    "start": "2026-12-21T09:45",
@@ -1395,7 +1424,7 @@
    "end": "2027-01-08T13:00",
    "subject": "Gospodarka oparta na wiedzy",
    "kind": "ćw",
-   "no": "13/15",
+   "no": "11/13",
    "room": "Paw.F 715",
    "teacher": "mgr Riccardo Valente",
    "note": ""
@@ -1511,11 +1540,22 @@
    "note": ""
   },
   {
+   "start": "2027-01-14T15:00",
+   "end": "2027-01-14T16:30",
+   "subject": "Gospodarka oparta na wiedzy (ćwiczenia zdalne 2/2)",
+   "kind": "",
+   "no": "",
+   "room": "https://services.uek.krakow.pl/schedule/class/6949820",
+   "teacher": "mgr Riccardo Valente",
+   "note": "zaj. zdalne okazjonalne",
+   "changedAt": "2026-11-20T12:46:01.039Z"
+  },
+  {
    "start": "2027-01-15T11:30",
    "end": "2027-01-15T13:00",
    "subject": "Gospodarka oparta na wiedzy",
    "kind": "ćw",
-   "no": "14/15",
+   "no": "12/13",
    "room": "Paw.F 715",
    "teacher": "mgr Riccardo Valente",
    "note": ""
@@ -1675,7 +1715,7 @@
    "end": "2027-01-22T13:00",
    "subject": "Gospodarka oparta na wiedzy",
    "kind": "ćw",
-   "no": "15/15",
+   "no": "13/13",
    "room": "Paw.F 715",
    "teacher": "mgr Riccardo Valente",
    "note": ""
