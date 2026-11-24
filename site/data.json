@@ -1,8 +1,20 @@
 {
  "group": "ZZIBS1-2311",
- "savedAt": "2026-11-20T20:47:17.272Z",
- "lastChangeAt": "2026-11-20T12:46:01.039Z",
+ "savedAt": "2026-11-24T20:30:25.329Z",
+ "lastChangeAt": "2026-11-24T20:30:25.329Z",
  "changes": [
+  {
+   "at": "2026-11-24T20:30:25.329Z",
+   "text": "Nowe: Zarządzanie procesami innowacyjnymi (ćwiczenia), pn 7.12 16:45 – Bibl. 443"
+  },
+  {
+   "at": "2026-11-24T20:30:25.329Z",
+   "text": "Przeniesione: Zarządzanie procesami innowacyjnymi (ćwiczenia), pn 21.12 15:00 → na 07.12."
+  },
+  {
+   "at": "2026-11-24T20:30:25.329Z",
+   "text": "Zmiana: Zarządzanie finansami przedsiębiorstwa (ćwiczenia), śr 20.01 16:45 – sala Paw.F 414 (Kat. Gosp.Reg.) → Paw.G 13 SENACKA"
+  },
   {
    "at": "2026-11-20T12:46:01.039Z",
    "text": "Przeniesione: Gospodarka oparta na wiedzy (ćwiczenia), pt 4.12 11:30"
@@ -1136,6 +1148,17 @@
    "note": ""
   },
   {
+   "start": "2026-12-07T16:45",
+   "end": "2026-12-07T18:15",
+   "subject": "Zarządzanie procesami innowacyjnymi",
+   "kind": "ćw",
+   "no": "12/15",
+   "room": "Bibl. 443",
+   "teacher": "mgr Małgorzata Zakrzewska",
+   "note": "",
+   "changedAt": "2026-11-24T20:30:25.329Z"
+  },
+  {
    "start": "2026-12-08T13:15",
    "end": "2026-12-08T14:45",
    "subject": "Zarządzanie finansami przedsiębiorstwa",
@@ -1251,7 +1274,7 @@
    "end": "2026-12-14T16:30",
    "subject": "Zarządzanie procesami innowacyjnymi",
    "kind": "ćw",
-   "no": "12/15",
+   "no": "13/15",
    "room": "Bibl.425",
    "teacher": "mgr Małgorzata Zakrzewska",
    "note": ""
@@ -1361,11 +1384,12 @@
    "start": "2026-12-21T15:00",
    "end": "2026-12-21T16:30",
    "subject": "Zarządzanie procesami innowacyjnymi",
-   "kind": "ćw",
-   "no": "13/15",
-   "room": "Bibl.425",
+   "kind": "przen",
+   "no": "1/1",
+   "room": "",
    "teacher": "mgr Małgorzata Zakrzewska",
-   "note": ""
+   "note": "na 07.12.",
+   "changedAt": "2026-11-24T20:30:25.329Z"
   },
   {
    "start": "2026-12-22T13:15",
@@ -1634,9 +1658,10 @@
    "subject": "Zarządzanie finansami przedsiębiorstwa",
    "kind": "ćw",
    "no": "15/15",
-   "room": "Paw.F 414 (Kat. Gosp.Reg.)",
+   "room": "Paw.G 13 SENACKA",
    "teacher": "prof. UEK dr hab. Jarosław Kaczmarek",
-   "note": ""
+   "note": "",
+   "changedAt": "2026-11-24T20:30:25.329Z"
   },
   {
    "start": "2027-01-21T08:00",
@@ -1726,8 +1751,7 @@
    "no": "1/1",
    "room": "Paw.S sala 2, Paw.S sala 3",
    "teacher": "prof. UEK dr hab. Paweł Cabała",
-   "note": "",
-   "changedAt": "2026-11-10T19:12:05.967Z"
+   "note": ""
   }
  ]
 }
